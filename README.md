@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, Im Zaid👋
+
+I am Jordanian Muslim and a Senior at the University of South Florida (USF) graduating with a Bachelor's Degree in Cybersecurity. I have a strong interest in network security, threat analysis, and building Virtual Machines. Im currently working with a Proxmox Home Server setup in my closet and actively learning C Programming, Firewall Configurations and SOC Operations.
+
+In the Future i will be looking to colloborate with other people on Open-source Cybersecurity tools as well as Homelab Infrastructure and Networking Projects.
+
 
 <!--
 **LexusSRC/LexusSRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
